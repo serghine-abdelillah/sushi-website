@@ -8,3 +8,5 @@ This project developed following js mastery YT channel.
 - Using BEM method for css naming classes.
 - Using css variables to maintain an adjustable styling approach.
 - A responsive design to work accross different devices.
+
+Live from here [SUSHIMAN](https://sushi-web-site.netlify.app/)
