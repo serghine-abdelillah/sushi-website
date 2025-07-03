@@ -9,4 +9,4 @@ This project developed following js mastery YT channel.
 - Using css variables to maintain an adjustable styling approach.
 - A responsive design to work accross different devices.
 
-Live from here [SUSHIMAN](https://sushi-web-site.netlify.app/)
+Live from here [SUSHIMAN](https://sushiman-web-site.netlify.app/)
