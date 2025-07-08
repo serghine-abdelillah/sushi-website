@@ -10,4 +10,5 @@ This project developed following js mastery YT channel.
 - A responsive design to work accross different devices.
 - The use of AOS animation.
 - The use of modelar css files which simplify reusability.
+- 
 Live from here [SUSHIMAN](https://sushiman-web-site.netlify.app/)
